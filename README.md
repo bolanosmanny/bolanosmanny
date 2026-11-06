@@ -6,7 +6,7 @@
 
 <img src="./about_emanuel_mora1.gif" alt="About Emanuel Mora" width="800" />
 
-I’m a Computer Science student at the **College of Charleston** and an **ML Research Intern at MUSC**. I’m interested in full-stack engineering, applied machine learning, and AI systems that can be tested and measured.
+I’m a Computer Science student at the **College of Charleston** and an **ML Research Intern at MUSC**. I’m interested in full-stack engineering, applied machine learning, robotics and AI systems.
 
 ### Main skills
 
@@ -24,7 +24,7 @@ I’m a Computer Science student at the **College of Charleston** and an **ML Re
 
 ### Current research
 
-- **Cancer research:** Applying NLP and machine learning to clinical notes at MUSC.
+- **Cancer research:** Applying NLP and machine learning to clinical EHR data at MUSC.
 - **Controlled research ML app:** Building a platform at the College of Charleston Drone Lab for evaluating models against owner-controlled datasets without exposing the raw data.
 
 ## GitHub stats
