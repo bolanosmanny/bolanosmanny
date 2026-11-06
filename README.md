@@ -4,7 +4,7 @@
 
 ### About me
 
-<img src="./assets/about_emanuel_mora.gif" alt="Animated terminal introducing Emanuel Mora" width="100%" />
+<img src="./about_emanuel_mora.gif1" alt="About Emanuel Mora" width="800" />
 
 I’m a Computer Science student at the **College of Charleston** and an **ML Research Intern at MUSC**. I’m interested in full-stack engineering, applied machine learning, and AI systems that can be tested and measured.
 
