@@ -10,11 +10,11 @@ I’m a Computer Science student at the **College of Charleston** and an **ML Re
 
 ### Main skills
 
-[![Main skills](https://skillicons.dev/icons?i=py,ts,cpp,js,react,nextjs,nodejs,fastapi,postgres,redis,docker,aws,git,githubactions,pytorch,sklearn&perline=8&theme=dark)](https://skillicons.dev)
+[![Main skills](https://skillicons.dev/icons?i=py,ts,cpp,js,react,nextjs,nodejs,fastapi,postgres,redis,supabase,docker,aws,git,githubactions,pytorch,sklearn,vitest&perline=9&theme=dark)](https://skillicons.dev)
 
 ### Currently working with
 
-[![Current tools](https://skillicons.dev/icons?i=go,supabase,opencv,github&theme=dark)](https://skillicons.dev)
+[![Current tools](https://skillicons.dev/icons?i=go,opencv,github&theme=dark)](https://skillicons.dev)
 
 ### Featured projects
 
@@ -29,23 +29,26 @@ I’m a Computer Science student at the **College of Charleston** and an **ML Re
 
 ## GitHub stats
 
-<p>
+<p align="center">
   <img
-    height="180"
+    width="52%"
     src="https://github-stats-extended.vercel.app/api?username=bolanosmanny&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=409CFF&amp;text_color=E6EDF3&amp;icon_color=409CFF"
     alt="Emanuel's GitHub stats"
   />
   <img
-    height="180"
+    width="43%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=bolanosmanny&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=409CFF&amp;text_color=E6EDF3"
+    alt="Emanuel's most-used languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="70%"
     src="https://streak-stats.demolab.com?user=bolanosmanny&amp;theme=transparent&amp;hide_border=true&amp;ring=409CFF&amp;fire=409CFF&amp;currStreakLabel=409CFF"
     alt="Emanuel's GitHub streak"
   />
 </p>
-
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=bolanosmanny&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=409CFF&amp;text_color=E6EDF3"
-  alt="Emanuel's most-used languages"
-/>
 
 ### Connect with me!
 
