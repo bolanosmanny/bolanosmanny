@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=409CFF&amp;height=120&amp;section=header" alt="Header wave" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Montserrat&amp;weight=600&amp;size=27&amp;duration=4000&amp;pause=700&amp;color=409CFF&amp;width=700&amp;lines=Hey%2C+I'm+Emanuel+Mora;Full-Stack+Development+%2B+Applied+ML;Building+AI+Systems+That+Work" alt="Emanuel Mora introduction" />
+<img src="https://readme-typing-svg.demolab.com/?font=Montserrat&amp;weight=600&amp;size=27&amp;duration=4000&amp;pause=700&amp;color=409CFF&amp;width=700&amp;lines=Hi%2C+I'm+Emanuel+Mora;Full-Stack+Development+%2B+Applied+ML;Building+AI+Systems+That+Work" alt="Emanuel Mora introduction" />
 
 ### About me
 
