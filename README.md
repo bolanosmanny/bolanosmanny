@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=B8A7D9&amp;height=120&amp;section=header" alt="Header wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=409CFF&amp;height=120&amp;section=header" alt="Header wave" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Montserrat&amp;weight=600&amp;size=27&amp;duration=4000&amp;pause=700&amp;color=B8A7D9&amp;width=700&amp;lines=Hey%2C+I'm+Emanuel+Mora;Full-Stack+Development+%2B+Applied+ML;Building+AI+Systems+That+Work" alt="Emanuel Mora introduction" />
+<img src="https://readme-typing-svg.demolab.com/?font=Montserrat&amp;weight=600&amp;size=27&amp;duration=4000&amp;pause=700&amp;color=409CFF&amp;width=700&amp;lines=Hey%2C+I'm+Emanuel+Mora;Full-Stack+Development+%2B+Applied+ML;Building+AI+Systems+That+Work" alt="Emanuel Mora introduction" />
 
 ### About me
 
@@ -46,6 +46,7 @@ I’m a Computer Science student at the **College of Charleston** and an **ML Re
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=bolanosmanny&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=409CFF&amp;text_color=E6EDF3"
   alt="Emanuel's most-used languages"
 />
+
 ### Connect with me!
 
 <a href="https://www.linkedin.com/in/emanuelbolanos">
@@ -60,4 +61,4 @@ I’m a Computer Science student at the **College of Charleston** and an **ML Re
 > [!IMPORTANT]
 > I’m interested in **software engineering, full-stack, and machine learning internships**. Explore my projects above or [connect with me on LinkedIn](https://www.linkedin.com/in/emanuelbolanos).
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=B8A7D9&amp;height=120&amp;section=footer" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=409CFF&amp;height=120&amp;section=footer" alt="Footer wave" />
