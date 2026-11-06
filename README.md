@@ -27,17 +27,25 @@ I’m a Computer Science student at the **College of Charleston** and an **ML Re
 - **Cancer research:** Applying NLP and machine learning to clinical notes at MUSC.
 - **Controlled research ML app:** Building a platform at the College of Charleston Drone Lab for evaluating models against owner-controlled datasets without exposing the raw data.
 
-### GitHub stats
+## GitHub stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bolanosmanny&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=B8A7D9&amp;text_color=E7EDF5&amp;icon_color=38BDF8" alt="Emanuel's GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=bolanosmanny&amp;theme=dark&amp;hide_border=true&amp;background=0B1020&amp;ring=B8A7D9&amp;fire=38BDF8&amp;currStreakNum=E7EDF5&amp;sideNums=E7EDF5&amp;currStreakLabel=B8A7D9&amp;sideLabels=B8A7D9&amp;dates=8392A5" alt="Emanuel's GitHub contribution streak" />
+<p>
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=bolanosmanny&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=409CFF&amp;text_color=E6EDF3&amp;icon_color=409CFF"
+    alt="Emanuel's GitHub stats"
+  />
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=bolanosmanny&amp;theme=transparent&amp;hide_border=true&amp;ring=409CFF&amp;fire=409CFF&amp;currStreakLabel=409CFF"
+    alt="Emanuel's GitHub streak"
+  />
 </p>
 
-<p align="center">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolanosmanny&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=B8A7D9&amp;text_color=E7EDF5" alt="Most-used languages across public repositories" />
-</p>
-
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=bolanosmanny&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=409CFF&amp;text_color=E6EDF3"
+  alt="Emanuel's most-used languages"
+/>
 ### Connect with me!
 
 <a href="https://www.linkedin.com/in/emanuelbolanos">
