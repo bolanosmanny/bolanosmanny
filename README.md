@@ -1,74 +1,55 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1E40AF,100:06B6D4&amp;height=160&amp;section=header&amp;text=Emanuel%20Bolanos&amp;fontColor=FFFFFF&amp;fontSize=42&amp;fontAlignY=38" alt="Emanuel Bolanos header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=B8A7D9&amp;height=120&amp;section=header" alt="Header wave" />
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Montserrat&amp;weight=600&amp;size=27&amp;duration=4000&amp;pause=700&amp;color=B8A7D9&amp;width=700&amp;lines=Hey%2C+I'm+Emanuel+Mora;Full-Stack+Development+%2B+Applied+ML;Building+AI+Systems+That+Work" alt="Emanuel Mora introduction" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Software+Engineering+%2B+Applied+ML;Building+reliable+systems;Making+machine+learning+measurable" alt="Software engineering and applied ML" />
+### About me
 
-**Computer Science @ College of Charleston · ML Research Intern @ MUSC**
+<img src="./assets/about_emanuel_mora.gif" alt="Animated terminal introducing Emanuel Mora" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelbolanos)
-[![GitHub](https://img.shields.io/badge/GitHub-bolanosmanny-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bolanosmanny)
+I’m a Computer Science student at the **College of Charleston** and an **ML Research Intern at MUSC**. I’m interested in full-stack engineering, applied machine learning, and AI systems that can be tested and measured.
 
-</div>
+### Main skills
 
-## About me
+[![Main skills](https://skillicons.dev/icons?i=py,ts,cpp,js,react,nextjs,nodejs,fastapi,postgres,redis,docker,aws,git,githubactions,pytorch,sklearn&perline=8&theme=dark)](https://skillicons.dev)
 
-```json
-{
-  "name": "Emanuel Bolanos",
-  "focus": ["full-stack", "developer tooling", "applied ML"],
-  "currently_building": ["Cancer Research", "Controlled ML Dataset Platform"],
-  "interested_in": ["SWE internships", "ML internships"]
-}
-```
+### Currently working with
 
-I like working on the parts that make software dependable: clear architecture, measurable performance, good tests, and evidence you can inspect.
+[![Current tools](https://skillicons.dev/icons?i=go,supabase,opencv,github&theme=dark)](https://skillicons.dev)
 
-## Featured projects
+### Featured projects
 
-### [ReproPulse](https://github.com/bolanosmanny/repropulse) · CI reliability platform
+**[ReproPulse](https://github.com/bolanosmanny/repropulse)** — A GitHub App for CI reliability. It ingests workflow events and JUnit reports, detects retry-recovered failures, and shows the evidence behind flaky-test scores.
 
-A GitHub App that ingests workflow events and JUnit reports, tracks same-commit reruns, and shows why a test may be flaky.
+**[Stratos](https://github.com/bolanosmanny/stratos)** — A full-stack financial research platform with portfolio tools and source-cited answers grounded in SEC filings.
 
-```text
-GitHub Actions ──┬── signed webhooks ──┐
-                 └── JUnit reports ────┤
-                                      ▼
-                             Fastify + BullMQ
-                                      ▼
-                          PostgreSQL → dashboard
-```
+### Current research
 
-`TypeScript` `Fastify` `PostgreSQL` `Redis` `BullMQ` `Next.js` `Docker`
+- **Cancer research:** Applying NLP and machine learning to clinical notes at MUSC.
+- **Controlled research ML app:** Building a platform at the College of Charleston Drone Lab for evaluating models against owner-controlled datasets without exposing the raw data.
 
-### [Stratos](https://github.com/bolanosmanny/stratos) · Financial research platform
+### GitHub stats
 
-A full-stack application for market research, portfolio tracking, and source-cited answers from SEC filings.
-
-```text
-SEC filings → chunking → embeddings → pgvector
-                                        ↓
-                                 retrieval → Qwen
-                                        ↓
-                                  cited answer
-```
-
-`Python` `FastAPI` `Next.js` `Supabase` `PostgreSQL` `pgvector` `Docker`
-
-## Research
-
-At **MUSC**, I work on clinical-record retrieval and NLP. I helped reduce a pediatric-diabetes retrieval pipeline from **50 minutes to under 1 minute** while improving **MAP@11 from 0.277 to 0.540**.
-
-At the **College of Charleston Drone Lab**, I’m developing a controlled-data model-evaluation platform so researchers can test models without downloading the underlying datasets.
-
-## Main skills
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,ts,cpp,go,react,nextjs,nodejs,fastapi,postgres,redis,docker,aws,supabase,githubactions,pytorch,sklearn&amp;perline=8&amp;theme=dark" alt="Python, TypeScript, C++, Go, React, Next.js, Node.js, FastAPI, PostgreSQL, Redis, Docker, AWS, Supabase, GitHub Actions, PyTorch, scikit-learn" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bolanosmanny&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=B8A7D9&amp;text_color=E7EDF5&amp;icon_color=38BDF8" alt="Emanuel's GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=bolanosmanny&amp;theme=dark&amp;hide_border=true&amp;background=0B1020&amp;ring=B8A7D9&amp;fire=38BDF8&amp;currStreakNum=E7EDF5&amp;sideNums=E7EDF5&amp;currStreakLabel=B8A7D9&amp;sideLabels=B8A7D9&amp;dates=8392A5" alt="Emanuel's GitHub contribution streak" />
 </p>
 
-## Connect
+<p align="center">
+  <img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolanosmanny&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=B8A7D9&amp;text_color=E7EDF5" alt="Most-used languages across public repositories" />
+</p>
 
-Interested in **software engineering or machine learning internships**. You can reach me on [LinkedIn](https://www.linkedin.com/in/emanuelbolanos) or explore my work in the repositories above.
+### Connect with me!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1E40AF,100:06B6D4&amp;height=120&amp;section=footer" alt="Footer wave" />
+<a href="https://www.linkedin.com/in/emanuelbolanos">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="45" />
+</a>
+<a href="https://github.com/bolanosmanny">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="45" />
+</a>
+
+### Open to internships
+
+> [!IMPORTANT]
+> I’m interested in **software engineering, full-stack, and machine learning internships**. Explore my projects above or [connect with me on LinkedIn](https://www.linkedin.com/in/emanuelbolanos).
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=B8A7D9&amp;height=120&amp;section=footer" alt="Footer wave" />
